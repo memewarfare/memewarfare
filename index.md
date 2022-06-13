@@ -12,75 +12,8 @@ header:
       url: "https://github.com/memewarfare/memewarfare.github.io"
   caption: ""
 excerpt: "A repo about memes and how to use them."
-feature_row:
-  - image_path: /assets/images/splash-about.png
-    alt: "Read the Journals"
-    title: "Journals"
-    excerpt: "Browse the journal archives dating back to January 2018."
-    url: "https://bitcoinwords.github.io/categories/journals/"
-    btn_label: "Read Journals"
-    btn_class: "btn--primary"
-  - image_path: assets/images/investment.png
-    alt: "Bitcoin Investment Cases"
-    title: "Bitcoin Investment Cases"
-    excerpt: "A collection of pdf's and articles that highlight the Investment Case for Bitcoin."
-    url: "https://bitcoinwords.github.io/investment/"
-    btn_label: "Investment Cases"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/moon.png
-    alt: "Bitcoin Financial Journal"
-    title: "Bitcoin Financial Journal"
-    excerpt: "A comprehensive collection of on and off chain indicators and valuation models for Bitcoin."
-    url: "https://bitcoinwords.github.io/bitcoin-financial-journal"
-    btn_label: "Read the Bitcoin Financial Journal"
-    btn_class: "btn--primary"
-feature_row2:
-  - image_path: /assets/images/101.png
-    alt: "WORDS 101"
-    title: "WORDS 101"
-    excerpt: "WORDS 101 is a quick FAQ about Bitcoin and resources to get you started."
-    url: "https://bitcoinwords.github.io/101/"
-    btn_label: "WORDS 101"
-    btn_class: "btn--warning"
-feature_row3:
-  - image_path: /assets/images/anthology.png
-    alt: "WORDS Anthology"
-    title: "WORDS Anthology"
-    excerpt: "WORDS Anthology are author-specific collections of writing."
-    url: "https://bitcoinwords.github.io/categories/anthology/"
-    btn_label: "WORDS Anthology"
-    btn_class: "btn--warning"
-row4:
-  - image_path: /assets/images/101.png
-    alt: "WORDS 101"
-    title: "WORDS 101"
-    excerpt: "WORDS 101 is a quick FAQ about Bitcoin and resources to get you started."
-    url: "https://bitcoinwords.github.io/101/"
-    btn_label: "WORDS 101"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/anthology.png
-    alt: "WORDS Anthology"
-    title: "WORDS Anthology"
-    excerpt: "WORDS Anthology are author-specific collections of writing."
-    url: "https://bitcoinwords.github.io/categories/anthology/"
-    btn_label: "WORDS Anthology"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/grants.png
-    alt: "Bitcoin Grants Tracker"
-    title: "Bitcoin Grants Tracker"
-    excerpt: "A table that shows Bitcoin development grants."
-    url: "https://bitcoinwords.github.io/grants/"
-    btn_label: "Bitcoin Grants Tracker"
-    btn_class: "btn--primary"
+
 ---
 
-## About WORDS 
-**WORDS** is one of the founding journals of Bitcoin thought. The mission of the project is to spread and preserve the writings about Bitcoin for future generations.
-
-[<i class="fas fa-book"></i> Find out more](https://bitcoinwords.github.io/about/){: .btn .btn--primary}
-
-[![](https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/images/splash-stats.png)](https://bitcoinwords.github.io/categories/journals/){: .align-center}
-
-{% include feature_row %}
-
-{% include feature_row id="row4" %}
+## About Meme Warfare 
+**Meme Warfare** is a repo of information about memes and how to use them. The intention of this collection is to further the understanding of this topic and to develop our own opinions on the subject. 
