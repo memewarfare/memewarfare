@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "𝗪𝗢𝗥𝗗𝗦 Bitcoin Journal"
+title                    : "Meme Warfare"
 title_separator          : "-"
-name                     : "𝗪𝗢𝗥𝗗𝗦"
-description              : "WORDS Bitcoin Journal"
-url                      : "https://bitcoinwords.github.io"
+name                     : "Meme Warfare"
+description              : "A repo about memes and how to use them."
+url                      : "https://memewarfare.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "bitcoinwords/bitcoinwords.github.io"
-teaser                   : "/assets/images/og-words.png"
-logo                     : "/assets/words-logos/wordsblackoutline-88.png"
-masthead_title           : "WORDS Bitcoin Journal"
+repository               : "memewarfare/memewarfare.github.io"
+teaser                   : #"/assets/images/og-words.png"
+logo                     : #"/assets/words-logos/wordsblackoutline-88.png"
+masthead_title           : "Meme Warfare"
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
@@ -66,14 +66,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
 search_full_content      : 
-search_provider          : google
+search_provider          : #google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : 016711029592244210279:x3dmhv5macs
+  search_engine_id       : #016711029592244210279:x3dmhv5macs
   instant_search         : true
 # SEO Related
 google_site_verification : 
@@ -83,12 +83,12 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "_bitcoinwords"
+  username               : #"_bitcoinwords"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/og-words.png"
+og_image                 : #"/assets/images/og-words.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -98,57 +98,57 @@ social:
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
+  provider               : #google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-156167849-1" 
+    tracking_id          : #"UA-156167849-1" 
     anonymize_ip         : false # true, false (default)
 
 
 # Site Author
 author:
-  name             : "𝗪𝗢𝗥𝗗𝗦"
-  avatar           : "/assets/images/words-card-200.png"
-  bio              : "𝗪𝗢𝗥𝗗𝗦 is a bastion of Bitcoin knowledge. Read 𝗪𝗢𝗥𝗗𝗦."
-  location         : # "Little Rock, AR"
-  email            : "bitcoinwords@gmail.com"
+  name             : "Meme Warfare"
+  avatar           : #"/assets/images/words-card-200.png"
+  bio              : "Meme Warfare is a repo about memes and how to use them."
+  location         : "Texas"
+  email            : #""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:cbitcoinwords@gmail.com"
     - label: "Subscribe"
       icon: "fas fa-fw fa-link"
-      url: "https://mailchi.mp/59e9fda5b387/words"
+      # url: "https://mailchi.mp/59e9fda5b387/words"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_bitcoinwords"
+      # url: "https://twitter.com/_bitcoinwords"
     - label: "Telegram"
       icon: "fab fa-telegram-plane"
-      url: "https://t.me/bitcoinwordsjournal"
+      # url: "https://t.me/bitcoinwordsjournal"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bitcoinwords"
+      url: "https://github.com/memewarfare"
     - label: "Support 𝗪𝗢𝗥𝗗𝗦"
       icon: "fab fa-bitcoin"
-      url: "https://bitcoinwords.github.io/support/"
+      # url: "https://bitcoinwords.github.io/support/"
 
 # Site Footer
 footer:
   links:
     - label: "Subscribe"
       icon: "fas fa-fw fa-link"
-      url: "https://mailchi.mp/59e9fda5b387/words"
+      # url: "https://mailchi.mp/59e9fda5b387/words"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/_bitcoinwords
+      # url: https://twitter.com/_bitcoinwords
     - label: "Telegram"
       icon: "fab fa-telegram-plane"
-      url: "https://t.me/bitcoinwordsjournal"
+      # url: "https://t.me/bitcoinwordsjournal"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bitcoinwords"
+      url: "https://github.com/memewarfare"
     - label: "Links"
       icon: "fas fa-bolt"
-      url: "https://bitcoinwords.github.io/links/docs/planet.news.html"
+      # url: "https://bitcoinwords.github.io/links/docs/planet.news.html"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
@@ -294,7 +294,7 @@ defaults:
       category: "posts"
       comments: false
       header:
-        teaser: "/assets/images/words-card-200.png"
+        teaser: # "/assets/images/words-card-200.png"
       layout: single    
       read_time: true
       related: false
@@ -309,7 +309,7 @@ defaults:
       author_profile: true
       comments: false
       header:
-        teaser: "/assets/images/words-card-200.png"
+        teaser: # "/assets/images/words-card-200.png"
       layout: single
       read_time: false
       related: true
