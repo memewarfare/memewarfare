@@ -1,0 +1,38 @@
+# main links
+main:
+  - title: "Subscribe"
+    url: https://mailchi.mp/59e9fda5b387/words
+  - title: "Journals"
+    url: https://bitcoinwords.github.io/categories/journals/
+  - title: "Posts"
+    url: https://bitcoinwords.github.io/tags/
+  - title: "About"
+    url: https://bitcoinwords.github.io/about/
+  - title: "Contact"
+    url: https://bitcoinwords.github.io/contact/
+  - title: "Support"
+    url: https://bitcoinwords.github.io/support  
+  - title: "Side Notes"
+    url: https://jrjr.posthaven.com/
+
+ 
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+sidebar-tags-page:
+  - title: "Quarters"
+    children:
+      - title: "CY19 Q2"
+        url: /tags/#cy19-q2
+      - title: "CY19 Q1"
+        url: /tags/#cy19-q1
+      - title: "CY18 Q4"
+        url: /tags/#cy18-q4
+      - title: "CY18 Q3"
+        url: /tags/#cy18-q3
