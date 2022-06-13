@@ -1,17 +1,17 @@
 # main links
 main:
-  - title: "Subscribe"
-    url: https://mailchi.mp/59e9fda5b387/words
-  - title: "Journals"
-    url: https://bitcoinwords.github.io/categories/journals/
+  - title: #"Subscribe"
+    url: #https://mailchi.mp/59e9fda5b387/words
+  - title: #"Journals"
+    url: https://memewarfare.github.io/categories/journals/
   - title: "Posts"
-    url: https://bitcoinwords.github.io/tags/
+    url: https://memewarfare.github.io/tags/
   - title: "About"
-    url: https://bitcoinwords.github.io/about/
+    url: https://memewarfare.github.io/about/
   - title: "Contact"
-    url: https://bitcoinwords.github.io/contact/
+    url: https://memewarfare.github.io/contact/
   - title: "Support"
-    url: https://bitcoinwords.github.io/support  
+    url: https://memewarfare.github.io/support  
   - title: "Side Notes"
     url: https://jrjr.posthaven.com/
 
@@ -25,7 +25,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar-tags-page:
+# sidebar-tags-page:
   - title: "Quarters"
     children:
       - title: "CY19 Q2"
